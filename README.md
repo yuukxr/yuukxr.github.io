@@ -1,2 +1,2 @@
 # Blue Cube 
-![blackcat](./blackcat.png)
+![blackcat](./pettern-blackcat.png)
