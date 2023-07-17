@@ -1,2 +1,2 @@
 # Blue Cube 
-![My Image](./image.jpg)
+![magic circle](./image.jpg)
