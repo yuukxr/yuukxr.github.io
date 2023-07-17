@@ -1,1 +1,2 @@
-# yuukxr.github.io
+# Blue Cube 
+![My Image](./image.jpg)
